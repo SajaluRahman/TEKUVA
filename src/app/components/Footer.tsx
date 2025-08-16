@@ -34,9 +34,9 @@ export default function Footer() {
         </div>
         <div className="footer-section">
           <h3 className="mb-3 text-blue-400 text-lg font-bold">Contact Info</h3>
-          <p className="mb-2">📍 Kanayannur, Kerala, India</p>
-          <p className="mb-2">📞 +91 9876543210</p>
-          <p className="mb-2">✉️ info@tekuvotechnologies.com</p>
+          <p className="mb-2">📍 Wayanad, Kerala, India</p>
+          <p className="mb-2">📞 +91 9544819365</p>
+          <p className="mb-2">✉️ tekuvotechnologies@gmail.com</p>
         </div>
       </div>
       <div className="footer-bottom border-t border-gray-700 pt-4 text-center text-gray-400 text-sm">
